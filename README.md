@@ -114,10 +114,9 @@
 
 # 🐍 Snake Animation
 
-Add this after creating the GitHub Actions workflow:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AmitKundal196/AmitKundal196/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/AmitKundal196/AmitKundal196/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
