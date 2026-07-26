@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Amit Kundal
 
-### 💻 B.Tech IT Student • DSA Enthusiast • MERN Developer • AI Learner
+### 💻 B.Tech IT Student • DSA Enthusiast • AI Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;DSA+with+C%2B%2B;Building+MERN+Projects;Learning+Machine+Learning;Consistency+Beats+Talent+🚀"/>
 
