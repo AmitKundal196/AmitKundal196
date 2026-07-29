@@ -23,7 +23,6 @@
 
 - 🎓 B.Tech Information Technology Student
 - 💻 Solving DSA in **C++**
-- 🌱 Learning **MERN Stack** and **Machine Learning**
 - 🚀 Building real-world projects
 - 🎯 Goal: Become a Software Development Engineer
 
